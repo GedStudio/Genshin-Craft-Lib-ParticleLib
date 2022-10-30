@@ -75,3 +75,8 @@ target/
 
 # Local Libraries shouldn't be added to git
 .libs/
+
+# Gradle
+build
+out
+.gradle
